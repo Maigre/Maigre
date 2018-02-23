@@ -1,0 +1,14 @@
+.post {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+.post img {
+  width: 100%;
+}
+
+.notif {
+  background-color: yellow;
+  color: black;
+}
